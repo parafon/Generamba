@@ -1,0 +1,13 @@
+current directory: /Users/parafon/Projects/Generamba/vendor/bundle/gems/json-2.7.2/ext/json
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20240614-35546-oe7rua.rb extconf.rb
+creating Makefile
+
+current directory: /Users/parafon/Projects/Generamba/vendor/bundle/gems/json-2.7.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/parafon/Projects/Generamba/vendor/bundle/gems/json-2.7.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/parafon/Projects/Generamba/vendor/bundle/gems/json-2.7.2/ext/json
+make "DESTDIR=" install
